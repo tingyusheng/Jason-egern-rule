@@ -1,0 +1,5 @@
+domain_suffix_set:
+  - "huangguoai"        #黄果
+domain_keyword_set:
+  - "cloudfront.net"    #黄果anna
+  - "ingest.sentry.io"  #57吃瓜
