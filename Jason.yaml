@@ -1,6 +1,5 @@
 domain_suffix_set:     #域名后缀
   - cloudfront.net    #黄果anna
-  - ingest.sentry.io  #57吃瓜
   - ediayikma.cc      #黄果
   - gupuoplgm.cc
 domain_keyword_set:   #域名关键字
