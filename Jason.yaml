@@ -2,7 +2,14 @@ domain_suffix_set:     #域名后缀
   - cloudfront.net    #黄果anna
   - ediayikma.cc      #黄果
   - gupuoplgm.cc
+  - daqbqrri.cc       #玩物社区
+  - wirqed.cn
+  - eisees.com
+  - tktjpm.cn
 domain_keyword_set:   #域名关键字
   - huangguo        #黄果
-domain_set:      #精确域名
+  - daqbqrri
+  - wirqed
+  - tktjpm
+domain:      #精确域名
   - 50f2.gupuoplgm.cc  #黄果
