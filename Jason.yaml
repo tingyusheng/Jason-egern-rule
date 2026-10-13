@@ -6,6 +6,8 @@ domain_suffix_set:     #域名后缀
   - wirqed.cn         #玩偶社区封面
   - eisees.com
   - tktjpm.cn
+  - bad.news          #蝴蝶主站及脚本
+  - hersav.me         #蝴蝶静态封面图CDN
 domain_keyword_set:   #域名关键字
   - huangguo        #黄果
   - daqbqrri
@@ -13,3 +15,6 @@ domain_keyword_set:   #域名关键字
   - tktjpm
 domain_set:      #精确域名
   - 50f2.gupuoplgm.cc  #黄果
+  - img.lvv2.com       #蝴蝶静态封面图CDN
+  - pbs.twimg.com
+  - video.twimg.com    #核心视频流分发
