@@ -8,6 +8,7 @@ domain_suffix_set:     #域名后缀
   - tktjpm.cn
   - bad.news          #蝴蝶主站及脚本
   - hersav.me         #蝴蝶静态封面图CDN
+  - dqx99999.shop     #流光画廊
 domain_keyword_set:   #域名关键字
   - huangguo        #黄果
   - daqbqrri
